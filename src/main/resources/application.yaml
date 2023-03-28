@@ -1,0 +1,11 @@
+
+spring:
+  h2:
+    console:
+      enabled: true
+yandex:
+  key: AQVN2axOOd3qO13uktdIPL6aHD-1GC1q9tl_y3X8
+
+#logging:
+#  level:
+#    com.api.translateapi: DEBUG
